@@ -129,6 +129,14 @@ The Elbow Method and Silhouette Score both pointed to **K = 5** as the optimal n
 
 ---
 
+## Personal Observations
+
+While exploring the dataset, I initially expected customers with higher income to always have higher spending scores. However, the analysis showed that income and spending were not strongly related.
+
+One interesting finding was the presence of high-income customers who still spent very little. These customers could be valuable targets for personalized marketing campaigns.
+
+Working on this project helped me understand how clustering can reveal patterns that are difficult to notice through simple descriptive statistics.
+
 ## 💡 Key Insights
 
 1. Annual income and spending score are nearly uncorrelated (~0.01). Earning more does not mean spending more here.
@@ -149,6 +157,12 @@ The Elbow Method and Silhouette Score both pointed to **K = 5** as the optimal n
 
 ---
 
+## Challenges Faced
+
+- Selecting the optimal number of clusters was not straightforward initially.
+- Understanding the interpretation of silhouette scores required additional research.
+- Converting cluster outputs into meaningful business recommendations was more challenging than building the clustering model itself.
+- 
 ## 🔮 Future Scope
 
 - Test DBSCAN for noise-resilient clustering
