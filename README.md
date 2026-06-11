@@ -61,8 +61,8 @@ There are no labels here — no one has pre-defined "segment A" or "segment B." 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Lavkumarjha/synent-task2-customer-segmentation-lavkumar.git
-cd synent-task2-customer-segmentation-lavkumar
+git clone git clone https://github.com/Lavkumarjha/synent-task6-customer-segmentation-lavkumar.git
+cd synent-task2-customer-segmentation-lavkumarjha
 ```
 
 ### 2. Install dependencies
@@ -176,4 +176,4 @@ This project is licensed under the MIT License. Feel free to use it for learning
 
 ---
 
-*Internship Task 2 | SYNENT AI/ML Program*
+*Internship Task 6 | SYNENT AI/ML Program*
