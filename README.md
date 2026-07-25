@@ -12,7 +12,7 @@
 
 This project applies **K-Means Clustering** to segment mall customers into distinct groups based on their **Annual Income** and **Spending Score**. The goal is to help the mall's marketing team understand who their customers actually are, so they can stop running the same generic campaigns for everyone.
 
-I built this as part of my AI/ML internship at SYNENT (Task 2). The dataset is small and clean, which made it a good starting point for learning unsupervised learning end to end — from raw data all the way to business-level recommendations.
+The dataset is small and clean, which made it a good starting point for learning unsupervised learning end to end — from raw data all the way to business-level recommendations.
 
 ---
 
@@ -61,8 +61,8 @@ There are no labels here — no one has pre-defined "segment A" or "segment B." 
 ### 1. Clone the repository
 
 ```bash
-git clone git clone https://github.com/Lavkumarjha/synent-task6-customer-segmentation-lavkumar.git
-cd synent-task2-customer-segmentation-lavkumarjha
+git clone git clone https://github.com/Lavkumarjha/customer-segmentation-lavkumarjha.git
+cd customer-segmentation-lavkumarjha
 ```
 
 ### 2. Install dependencies
@@ -186,8 +186,9 @@ B.Tech — Artificial Intelligence & Machine Learning
 
 ## 📄 License
 
+
 This project is licensed under the MIT License. Feel free to use it for learning purposes.
 
 ---
 
-*Internship Task 6 | SYNENT AI/ML Program*
+**
